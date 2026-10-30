@@ -16,5 +16,5 @@
 ---
 
 <br>
-![TTK_DEV](путь_к_файлу/имя_файла.gif)
+![TTK_DEV](https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/video.gif)
 
