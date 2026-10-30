@@ -1,4 +1,4 @@
-![Header](https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/banner.jpg)
+![Header](https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/banner.jpeg)
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
   <h1>👋 Привет, я — Tisha Tone Krauzer</h1>
