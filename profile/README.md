@@ -1,5 +1,5 @@
 ![Header](https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/banner.jpeg)
-<
+
 ---
 ## 🌍 Где меня найти
 
@@ -17,4 +17,4 @@
 
 <br>
 
-<video src="СЮДА_ВСТАВЬТЕ_ССЫЛКУ_НА_ВИДЕО" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/video.mp4" autoplay loop muted playsinline width="100%"></video>
