@@ -16,5 +16,5 @@
 ---
 
 <br>
+![TTK_DEV](путь_к_файлу/имя_файла.gif)
 
-<video src="https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/video.mp4" autoplay loop muted playsinline width="100%"></video>
