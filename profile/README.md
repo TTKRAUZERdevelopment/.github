@@ -16,5 +16,5 @@
 ---
 
 <br>
-![TTK_DEV](https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/video.gif)
+<img src="https://github.com/TTKRAUZERdevelopment/.github/blob/main/profile/Assets/video.gif" width="100%">
 
